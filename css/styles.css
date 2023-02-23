@@ -1,0 +1,49 @@
+body{
+    background-color: #eaf6f6;
+
+}
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1{
+    color: #66bfbf;
+}
+h1:hover{
+    color: rgb(31, 1, 165);
+}
+
+h2{
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+
+img:hover {
+    background-color: gold;
+}
+
+a{
+    color: blue;
+    transition: background-color 0.5s;
+}
+  
+a:hover{
+    color: gold;
+}
+
+.pfp{
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+}
+.pfp:hover {
+    border-style: double;
+    border-color: black;
+    background-color: blue;
+    border-width: 5px;
+}
